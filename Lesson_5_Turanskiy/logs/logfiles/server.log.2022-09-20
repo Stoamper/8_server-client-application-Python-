@@ -1,0 +1,15 @@
+2022-09-20 23:10:47,017 CRITICAL server_log_config.py critical error
+2022-09-20 23:10:47,017 ERROR server_log_config.py error
+2022-09-20 23:10:47,017 WARNING server_log_config.py warning
+2022-09-20 23:10:47,017 INFO server_log_config.py info
+2022-09-20 23:10:47,017 DEBUG server_log_config.py debug
+2022-09-20 23:11:00,037 CRITICAL server_log_config.py critical error
+2022-09-20 23:11:00,037 ERROR server_log_config.py error
+2022-09-20 23:11:00,037 WARNING server_log_config.py warning
+2022-09-20 23:11:00,037 INFO server_log_config.py info
+2022-09-20 23:11:00,037 DEBUG server_log_config.py debug
+2022-09-20 23:11:13,196 CRITICAL server_log_config.py critical error
+2022-09-20 23:11:13,196 ERROR server_log_config.py error
+2022-09-20 23:11:13,196 WARNING server_log_config.py warning
+2022-09-20 23:11:13,196 INFO server_log_config.py info
+2022-09-20 23:11:13,196 DEBUG server_log_config.py debug
