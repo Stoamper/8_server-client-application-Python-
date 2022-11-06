@@ -1,0 +1,23 @@
+2022-09-20 22:53:27,170 CRITICAL client_log_config.py critical error
+2022-09-20 22:53:27,170 ERROR client_log_config.py error
+2022-09-20 22:53:27,170 WARNING client_log_config.py warning
+2022-09-20 22:53:27,170 INFO client_log_config.py info
+2022-09-20 22:53:27,170 DEBUG client_log_config.py debug
+2022-09-22 23:33:28,700 CRITICAL client_log_config.py critical error
+2022-09-22 23:33:28,700 ERROR client_log_config.py error
+2022-09-22 23:33:28,700 WARNING client_log_config.py warning
+2022-09-22 23:33:28,700 INFO client_log_config.py info
+2022-09-22 23:33:28,700 DEBUG client_log_config.py debug
+2022-09-22 23:42:16,127 CRITICAL client.py Обнаружена попытка запуска клиента с неправильным номером порта: 1000. Допустимые адреса с 1024 по 65535 включительно
+2022-09-22 23:42:57,080 INFO client.py Параметры запущенного клиента: адрес сервера: 127.0.0.1, порт: 7777
+2022-09-22 23:42:57,081 DEBUG client.py Для пользователя Guest сформировано presence сообщение
+2022-09-22 23:42:57,083 DEBUG client.py Разбор сообщения сервера: {'response': 200}
+2022-09-22 23:42:57,083 INFO client.py Получен ответ от сервера: The HTTP 200 OK
+2022-09-29 20:33:45,285 INFO client.py Параметры запущенного клиента: адрес сервера: 127.0.0.1, порт: 7777
+2022-09-29 20:33:45,285 DEBUG client.py Для пользователя Guest сформировано presence сообщение
+2022-09-29 20:33:45,285 DEBUG client.py Разбор сообщения сервера: {'response': 200}
+2022-09-29 20:33:45,285 INFO client.py Получен ответ от сервера: The HTTP 200 OK
+2022-09-29 20:39:19,875 INFO client.py Параметры запущенного клиента: адрес сервера: 127.0.0.1, порт: 7777
+2022-09-29 20:39:19,875 DEBUG client.py Для пользователя Guest сформировано presence сообщение
+2022-09-29 20:39:19,875 DEBUG client.py Разбор сообщения сервера: {'response': 200}
+2022-09-29 20:39:19,875 INFO client.py Получен ответ от сервера: The HTTP 200 OK
